@@ -8,7 +8,7 @@ const Shop = () => {
                     <div className="card mb-3" style={{ maxWidth: "580px" }}>
                         <div className="row g-0">
                             <div className="col-md-4">
-                                <img src='https://i.ibb.co/Cs6YXSS/cookbooks.jpg'} className="img-fluid rounded-start" alt="image" />
+                                <img src='https://i.ibb.co/Cs6YXSS/cookbooks.jpg' className="img-fluid rounded-start" alt="image" />
                             </div>
                             <div className="col-md-8">
                                 <div className="card-body">
