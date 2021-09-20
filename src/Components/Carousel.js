@@ -14,15 +14,15 @@ const Carousel = () => {
                         </div>
                         <div className="carousel-inner">
                             <div className="carousel-item active" data-bs-interval="1000">
-                                <img src={process.env.PUBLIC_URL + 'images/shop-image-1.jpg'} className="d-block w-100" alt="image" />
+                                <img src='https://i.ibb.co/YkCnLs1/shop-image-1.jpg' className="d-block w-100" alt="image" />
                                 
                             </div>
                             <div className="carousel-item" data-bs-interval="2000">
-                                <img src={process.env.PUBLIC_URL + 'images/shop-image-2.jpg'} className="d-block w-100" alt="image" />
+                                <img src='https://i.ibb.co/kcGCm8T/shop-image-2.jpg' className="d-block w-100" alt="image" />
                                 
                             </div>
                             <div className="carousel-item">
-                                <img src={process.env.PUBLIC_URL + 'images/shop-image-3.jpg'} className="d-block w-100" alt="image" />
+                                <img src='https://i.ibb.co/pL8pLKs/shop-image-3.jpg' className="d-block w-100" alt="image" />
                                 
                             </div>
                         </div>
@@ -47,15 +47,15 @@ const Carousel = () => {
                         </div>
                         <div className="carousel-inner">
                             <div className="carousel-item active" data-bs-interval="1000">
-                                <img src={process.env.PUBLIC_URL + 'images/shop-image-4.jpg'} className="d-block w-100" alt="image"style={{height:"478px"}} />
+                                <img src='https://i.ibb.co/2qBQRB7/shop-image-4.jpg' className="d-block w-100" alt="image"style={{height:"478px"}} />
                                 
                             </div>
                             <div className="carousel-item" data-bs-interval="2000">
-                                <img src={process.env.PUBLIC_URL + 'images/shop-image-5.jpg'} className="d-block w-100" alt="image" style={{height:"478px"}}/>
+                                <img src='https://i.ibb.co/NxsbTf1/shop-image-5.jpg' className="d-block w-100" alt="image" style={{height:"478px"}}/>
                                 
                             </div>
                             <div className="carousel-item">
-                                <img src={process.env.PUBLIC_URL + 'images/shop-image-6.jpg'} className="d-block w-100" alt="image"style={{height:"478px"}} />
+                                <img src='https://i.ibb.co/kSgDBhc/shop-image-6.jpg' className="d-block w-100" alt="image"style={{height:"478px"}} />
                                 
                             </div>
                         </div>

@@ -4,7 +4,7 @@ const HeaderImgYt = () => {
             <div className="container"id="description"style={{backgroundColor:"#4a4a4a"}}>
                 <div className="row">
                     <div className="col-3 col-lg-2">
-                        <img src={process.env.PUBLIC_URL + 'images/ytprofile.jpg'} id="ytimg" alt="img"/>
+                        <img src='https://i.ibb.co/2YdNwm9/ytprofile.jpg' id="ytimg" alt="img"/>
                     </div>
                     <div className="col-9 col-lg-10 text-center" id="ytdescription">
                         <h3 >Lilly Sabri</h3>
