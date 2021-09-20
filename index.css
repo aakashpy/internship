@@ -1,0 +1,70 @@
+#bg-image{
+    background-image: url('images/bg-image.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position:relative;
+    height:270px;
+}
+#bg-profile{
+    margin-top:6px;
+    border-radius: 50%;
+    width:50px;
+    height:50px;
+   }
+#hero-description{
+    font-size:20px;
+    font-weight: bold;
+    background: linear-gradient(to top, rgba(255,0,0,0.5), rgb(202, 201, 133,1));
+    margin-top:55px;
+    border-radius:10px;
+    color:white;
+}
+#ytimg{
+    border-radius:100%;
+    width:100px;
+    margin-top:49px;
+}
+#description{
+    color:white;
+    padding-top:5px;
+    height:220px;
+    border-radius:15px;
+}
+#diff-btn{
+    margin-top:10px;
+}
+@media (min-width: 1000px) {
+   #bg-image{
+       text-align: center;
+       background-position: center;
+       background-size: cover;
+       width:1500px;
+       height:740px;
+   }
+   #bg-profile{
+    margin-top:6px;
+    border-radius: 50%;
+    width:100px;
+    height:100px;
+   }
+   #hero-description{
+       font-size:40px;
+       margin-top: 380px;
+   }
+   #ytimg{
+    border-radius:100%;
+    width:190px;
+    margin-top:5px;
+}
+#description{
+    color:white;
+    padding-top:5px;
+    height:220px;
+    border-radius:15px;
+}
+#ytdescription{
+    margin-top:20px;
+    font-size:20px;
+}
+}
